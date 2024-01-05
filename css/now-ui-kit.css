@@ -751,9 +751,9 @@ html:not([dir="rtl"]) .noUi-horizontal .noUi-handle {
   max-width: 254px;
 }
 
-.datepicker.dropdown-menu:before {
+/* .datepicker.dropdown-menu:before {
   display: none;
-}
+} */
 
 .datepicker.datepicker-primary {
   background-color: #f96332;
@@ -883,9 +883,9 @@ html:not([dir="rtl"]) .noUi-horizontal .noUi-handle {
   direction: rtl;
 }
 
-.datepicker.datepicker-rtl.dropdown-menu {
+/* .datepicker.datepicker-rtl.dropdown-menu {
   left: auto;
-}
+} */
 
 .datepicker.datepicker-rtl table tr td span {
   float: right;
@@ -4641,9 +4641,9 @@ Created using IcoMoon - icomoon.io
   width: 22px;
 }
 
-.navbar .button-dropdown .navbar-toggler-bar:nth-child(2) {
+/* .navbar .button-dropdown .navbar-toggler-bar:nth-child(2) {
   width: 17px;
-}
+} */
 
 .navbar.navbar-transparent {
   background-color: transparent !important;
@@ -4936,7 +4936,7 @@ Created using IcoMoon - icomoon.io
 .dropdown-menu.dropdown-warning .dropdown-divider {
   background-color: rgba(255, 255, 255, 0.2);
 }
-
+/* 
 .button-dropdown {
   padding-right: 0.7rem;
   cursor: pointer;
@@ -4946,11 +4946,11 @@ Created using IcoMoon - icomoon.io
   padding-top: 0.5rem;
   padding-bottom: 0.5rem;
   display: block;
-}
+} */
 
-.button-dropdown .dropdown-toggle:after {
+/* .button-dropdown .dropdown-toggle:after {
   display: none;
-}
+} */
 
 .alert {
   border: 0;
@@ -6532,9 +6532,9 @@ img {
   .sidebar-collapse .navbar-collapse .navbar-nav:not(.navbar-logo) .nav-link:not(.btn) {
     color: #FFFFFF !important;
   }
-  .sidebar-collapse .navbar-collapse .dropdown-menu .dropdown-item {
+  /* .sidebar-collapse .navbar-collapse .dropdown-menu .dropdown-item {
     color: #FFFFFF;
-  }
+  } */
   .sidebar-collapse.menu-on-left .navbar-translate {
     flex-direction: row-reverse;
   }
@@ -6549,7 +6549,7 @@ img {
     top: 0;
     height: 53px;
   }
-  .sidebar-collapse .navbar .dropdown.show .dropdown-menu,
+  /* .sidebar-collapse .navbar .dropdown.show .dropdown-menu,
   .sidebar-collapse .navbar .dropdown .dropdown-menu {
     background-color: transparent;
     border: 0;
@@ -6562,15 +6562,15 @@ img {
     padding-top: 0;
     height: 125px;
     overflow-y: scroll;
-  }
-  .sidebar-collapse .navbar .dropdown.show .dropdown-menu:before,
+  } */
+  /* .sidebar-collapse .navbar .dropdown.show .dropdown-menu:before,
   .sidebar-collapse .navbar .dropdown .dropdown-menu:before {
     display: none;
-  }
+  } */
   .sidebar-collapse .navbar .dropdown .dropdown-item {
     padding-left: 2.5rem;
   }
-  .sidebar-collapse .navbar .dropdown .dropdown-menu {
+  /* .sidebar-collapse .navbar .dropdown .dropdown-menu {
     display: none;
   }
   .sidebar-collapse .navbar .dropdown.show .dropdown-menu {
@@ -6580,7 +6580,7 @@ img {
   .sidebar-collapse .navbar .dropdown-menu .dropdown-item:hover {
     color: #FFFFFF;
     border-radius: 0.1875rem;
-  }
+  } */
   .sidebar-collapse .navbar .navbar-translate {
     width: 100%;
     position: relative;
@@ -6747,7 +6747,7 @@ img {
     top: 0;
     height: 53px;
   }
-  .bootstrap-collapse .navbar .dropdown.show .dropdown-menu,
+  /* .bootstrap-collapse .navbar .dropdown.show .dropdown-menu,
   .bootstrap-collapse .navbar .dropdown .dropdown-menu {
     background-color: transparent;
     border: 0;
@@ -6764,11 +6764,11 @@ img {
   .bootstrap-collapse .navbar .dropdown.show .dropdown-menu:before,
   .bootstrap-collapse .navbar .dropdown .dropdown-menu:before {
     display: none;
-  }
+  } */
   .bootstrap-collapse .navbar .dropdown .dropdown-item {
     padding-left: 2.5rem;
   }
-  .bootstrap-collapse .navbar .dropdown .dropdown-menu {
+  /* .bootstrap-collapse .navbar .dropdown .dropdown-menu {
     display: none;
   }
   .bootstrap-collapse .navbar .dropdown.show .dropdown-menu {
@@ -6778,7 +6778,7 @@ img {
   .bootstrap-collapse .navbar .dropdown-menu .dropdown-item:hover {
     color: #FFFFFF;
     border-radius: 0.1875rem;
-  }
+  } */
   .bootstrap-collapse .navbar .navbar-translate {
     width: 100%;
     position: relative;
@@ -6844,9 +6844,9 @@ img {
   .profile-photo .profile-photo-small {
     margin-left: -2px;
   }
-  .button-dropdown {
+  /* .button-dropdown {
     display: none;
-  }
+  } */
   .section-nucleo-icons .container .row>[class*="col-"]:first-child {
     text-align: center;
   }
@@ -6937,9 +6937,9 @@ img {
   .burger-menu .navbar-collapse .navbar-nav:not(.navbar-logo) .nav-link:not(.btn) {
     color: #FFFFFF !important;
   }
-  .burger-menu .navbar-collapse .dropdown-menu .dropdown-item {
+  /* .burger-menu .navbar-collapse .dropdown-menu .dropdown-item {
     color: #FFFFFF;
-  }
+  } */
   .burger-menu.menu-on-left .navbar-translate {
     flex-direction: row-reverse;
   }
@@ -6954,7 +6954,7 @@ img {
     top: 0;
     height: 53px;
   }
-  .burger-menu .navbar .dropdown.show .dropdown-menu,
+  /* .burger-menu .navbar .dropdown.show .dropdown-menu,
   .burger-menu .navbar .dropdown .dropdown-menu {
     background-color: transparent;
     border: 0;
@@ -6971,11 +6971,11 @@ img {
   .burger-menu .navbar .dropdown.show .dropdown-menu:before,
   .burger-menu .navbar .dropdown .dropdown-menu:before {
     display: none;
-  }
+  } */
   .burger-menu .navbar .dropdown .dropdown-item {
     padding-left: 2.5rem;
   }
-  .burger-menu .navbar .dropdown .dropdown-menu {
+  /* .burger-menu .navbar .dropdown .dropdown-menu {
     display: none;
   }
   .burger-menu .navbar .dropdown.show .dropdown-menu {
@@ -6985,7 +6985,7 @@ img {
   .burger-menu .navbar .dropdown-menu .dropdown-item:hover {
     color: #FFFFFF;
     border-radius: 0.1875rem;
-  }
+  } */
   .burger-menu .navbar .navbar-translate {
     width: 100%;
     position: relative;
@@ -7113,10 +7113,10 @@ img {
     -ms-transform: translate3d(-300px, 0, 0);
     transform: translate3d(-300px, 0, 0);
   }
-  .burger-menu [class*="navbar-expand-"] .navbar-nav .dropdown-menu {
+  /* .burger-menu [class*="navbar-expand-"] .navbar-nav .dropdown-menu {
     position: static;
     float: none;
-  }
+  } */
   .burger-menu [class*="navbar-expand-"] .navbar-toggler {
     display: inline-block;
   }
@@ -7166,7 +7166,7 @@ img {
   .section-nucleo-icons .icons-container {
     margin: 0 0 0 auto;
   }
-  .dropdown-menu .dropdown-item {
+  /* .dropdown-menu .dropdown-item {
     color: inherit;
     display: flex;
     align-items: center;
@@ -7175,7 +7175,7 @@ img {
     margin-right: 5px;
     position: relative;
     top: 1px;
-  }
+  } */
   .footer .copyright {
     float: right;
   }
@@ -7233,6 +7233,10 @@ img {
   }
   .page-header .container h6.category-absolute {
     width: 90%;
+  }
+  .responsive_text{
+    font-size: 30px;
+    text-align: center;
   }
 }
 
