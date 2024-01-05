@@ -16,3 +16,7 @@
     background-color: transparent !important;
 }
 
+.dropdown-toggle::after {
+    content: none;
+}
+   
